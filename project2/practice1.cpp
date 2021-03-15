@@ -56,7 +56,7 @@ int main(void) {
 		case EXIT:
 			return 0;
 		default:
-			cout << "illegal selection" << endl;
+			cout << "not in form selection" << endl;
 		}
 	}
 	return 0;
